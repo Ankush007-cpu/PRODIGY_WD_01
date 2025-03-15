@@ -17,7 +17,7 @@ This project is an **interactive navigation menu** that dynamically changes its 
 ## Installation & Setup
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Ankush007-cpu/navigation-menu.git
+   git clone https://github.com/Ankush007-cpu/PRODIGY_WD_01.git
    ```
 2. Navigate to the project folder:
    ```bash
